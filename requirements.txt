@@ -1,0 +1,10 @@
+pandas>=1.5
+numpy
+scikit-learn
+matplotlib
+seaborn
+nltk
+joblib
+openpyxl
+python-dateutil
+tqdm
