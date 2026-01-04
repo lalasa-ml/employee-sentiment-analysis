@@ -5,5 +5,3 @@ seaborn
 textblob
 scikit-learn
 openpyxl
-
-
