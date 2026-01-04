@@ -101,28 +101,6 @@ The model provides insight into how communication patterns influence sentiment.
 - Message length and word count show measurable correlation with sentiment trends.
 - The regression model demonstrates reasonable explanatory power given the unlabeled nature of the data.
 
----
-
-## Repository Structure
-
-employee_sentiment_analysis/
-│
-├── data/
-│ └── test.xlsx
-│
-├── notebook/
-│ └── employee_sentiment_analysis.ipynb
-│
-├── visualizations/
-│ ├── sentiment_distribution.png
-│ ├── monthly_sentiment_trend.png
-│ ├── top_positive_employees.png
-│ ├── top_negative_employees.png
-│ └── model_performance.png
-│
-├── README.md
-├── requirements.txt
-└── .env.example
 
 
 ---
@@ -133,3 +111,4 @@ employee_sentiment_analysis/
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
