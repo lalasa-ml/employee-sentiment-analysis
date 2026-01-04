@@ -42,7 +42,7 @@ EDA was conducted to understand sentiment distribution and trends:
 - Monthly sentiment trends over time
 - Identification of patterns in employee communication behavior
 
-Visualizations are stored in the `visualizations/` folder.
+Visualizations are stored in the 'visualizations' folder.
 
 ---
 
@@ -70,7 +70,7 @@ This rolling window approach ensures detection of sustained negative behavior re
 ---
 
 ### 6. Predictive Modeling
-A **Linear Regression model** is developed using `scikit-learn` to analyze sentiment trends.
+A **Linear Regression model** is developed using 'scikit-learn' to analyze sentiment trends.
 
 #### Features used:
 - Average message length per month
@@ -111,4 +111,5 @@ The model provides insight into how communication patterns influence sentiment.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
 
